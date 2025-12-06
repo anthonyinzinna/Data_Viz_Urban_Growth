@@ -1,11 +1,11 @@
 # Data_Viz_Urban_Growth
-A Data Visualization Project using population density past and present
+This project demonstrates Geospatial Analysis and Advanced Visualization using R. Instead of relying on standard plot functions, I implemented a custom rendering pipeline that generates individual map frames for each year and uses the Magick image processing engine to stitch them into a cohesive time-lapse animation.
 
 
 
 Executive Summary of Findings
 
-Here is a summary of the key analytical insights and technical outcomes from this visualization project:
+Summary of the key analytical insights and technical outcomes from this visualization project:
 
 1. Temporal Evolution of Urban Centers (1950–2030)
 
